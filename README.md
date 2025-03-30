@@ -17,6 +17,11 @@ While mathematical reasoning is very powerful, it has its shortcomings–some ma
 
 **Final Result:**
 Download the zine [here](https://github.com/suanna0/massage_the_machine/blob/main/zine.pdf).
+![](https://github.com/suanna0/massage_the_machine/blob/main/spreads/1.png)
+![](https://github.com/suanna0/massage_the_machine/blob/main/spreads/2.png)
+![](https://github.com/suanna0/massage_the_machine/blob/main/spreads/3.png)
+![](https://github.com/suanna0/massage_the_machine/blob/main/spreads/cover%20%2B%20back.png)
+
 
 The benefit of print media is that consumption takes place outside of algorithmic distribution, which is mostly in service to people in positions of power. A zine is printed on 8.5 x 11 paper, is black and white, so it is easy to photocopy and distribute. The short length and digestible syntax makes it easy to expose people to new ideas, inspiring curiosity to learn more.
 
